@@ -10,11 +10,11 @@ body {
 
 .header {
     display: flex;
-    margin-left: 200px;
-    margin-right: 200px;
+    margin-left: 300px;
+    margin-right: 300px;
     justify-content: space-between;
     padding-top: 12px;
-    margin-bottom: 120px;
+    margin-bottom: 150px;
 }
 
 .header div {
@@ -42,8 +42,8 @@ body {
 
 .second-section {
     display: flex;
-    margin-left: 200px;
-    margin-right: 200px;
+    margin-left: 300px;
+    margin-right: 300px;
     justify-content: space-between;
 }
 
