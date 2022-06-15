@@ -80,6 +80,11 @@ body {
     border: none;
 }
 
+.third-section {
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
 .introduction {
     text-align: center;
     font-size: 36px;
