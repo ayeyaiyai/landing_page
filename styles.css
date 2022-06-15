@@ -119,8 +119,23 @@ body {
     display: flex;
     flex-direction: column;
     background-color: #e5e7eb;
+    height: 450px;
+    justify-content: center;
+    align-items: center;
+    gap: 14px;
 }
 
 .quote {
+    display: flex;
+    color: #1F2937;
     font-size: 36px;
+    font-style: italic;
+    font-weight: 100;
+    font-family: "Times New Roman";
+    margin-left: 440px;
+    margin-right: 440px;
+}
+
+.quotee {
+    
 }
