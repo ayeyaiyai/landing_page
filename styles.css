@@ -181,3 +181,13 @@ body {
     font-size: 16px;
     font-weight: 900;
 }
+
+.footer {
+    display: flex;
+    color: white;
+    background-color: #1f2937;
+    font-size: 18px;
+    height: 100px;
+    justify-content: center;
+    align-items: center;
+}
