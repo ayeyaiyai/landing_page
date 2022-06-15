@@ -121,8 +121,7 @@ body {
     background-color: #e5e7eb;
     height: 450px;
     justify-content: center;
-    align-items: center;
-    gap: 14px;
+    gap: 24px;
 }
 
 .quote {
@@ -136,6 +135,9 @@ body {
     margin-right: 440px;
 }
 
-.quotee {
-    
+.quoted {
+    margin-left: auto;
+    margin-right: 500px;
+    font-size: 24px;
+    font-weight: 900;
 }
