@@ -85,6 +85,7 @@ body {
     margin-left: 300px;
     margin-right: 300px;
     margin-bottom: 120px;
+    justify-content: space-between;
 }
 
 .introduction {
@@ -98,4 +99,14 @@ body {
 .image-container img {
     width: 200px;
     height: 200px;
+}
+
+.image-container {
+    width: 200px;
+}
+
+.description {
+    text-align: center;
+    font-size: 18px;
+    color:#1F2937
 }
