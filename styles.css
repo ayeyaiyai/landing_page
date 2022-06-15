@@ -82,8 +82,8 @@ body {
 
 .third-section {
     display: flex;
-    margin-left: 300px;
-    margin-right: 300px;
+    margin-left: 400px;
+    margin-right: 400px;
     margin-bottom: 120px;
     justify-content: space-between;
 }
@@ -119,4 +119,8 @@ body {
     display: flex;
     flex-direction: column;
     background-color: #e5e7eb;
+}
+
+.quote {
+    font-size: 36px;
 }
