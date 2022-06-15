@@ -90,4 +90,10 @@ body {
     font-size: 36px;
     font-weight: 950;
     color: #1F2937;
+    padding: 48px;
+}
+
+.image-container img {
+    width: 200px;
+    height: 200px;
 }
