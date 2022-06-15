@@ -71,11 +71,18 @@ body {
 
 .second-section button {
     color: white;
-    background-color: rgb(0, 119, 255);
+    background-color: #3882f6;
     height: 32px;
     width: 90px;
     font-family: 'Roboto', sans-serif;
     font-weight: 900;
     border-radius: 12px;
     border: none;
+}
+
+.introduction {
+    text-align: center;
+    font-size: 36px;
+    font-weight: 950;
+    color: #1F2937;
 }
