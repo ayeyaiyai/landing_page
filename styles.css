@@ -159,3 +159,12 @@ body {
     border-radius: 12px;
     gap: 16px;
 }
+
+.action-title {
+    color: white;
+    font-size: 24px;
+}
+
+.action-subtext {
+    color: white;
+}
