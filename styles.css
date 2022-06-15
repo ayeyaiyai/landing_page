@@ -144,10 +144,11 @@ body {
 
 .call-to-action {
     display: flex;
-    justify-content: center;
+    justify-content: space-evenly;
     align-items: center;
     background-color: #3882f6;
-    width: 600px;
+    width: 800px;
     height: 150px;
     border-radius: 12px;
+    gap: 16px;
 }
