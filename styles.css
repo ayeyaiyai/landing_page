@@ -114,3 +114,9 @@ body {
     font-size: 18px;
     color:#1F2937
 }
+
+.quote-section {
+    display: flex;
+    flex-direction: column;
+    background-color: #e5e7eb;
+}
