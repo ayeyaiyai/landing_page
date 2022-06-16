@@ -1,11 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
 body {
     display: flex;
     flex-direction: column;
     font-family: 'Roboto', sans-serif;
 }
 
-.top-section {
-    background-color: #1f2937;  
+.blue-section {
+    background-color: #1f2937;
 }
 
 .header {
@@ -144,9 +149,9 @@ body {
 
 .action-section {
     display: flex;
-    height: 350px;
     align-items: center;
     justify-content: center;
+    padding: 100px;
 }
 
 .call-to-action {
